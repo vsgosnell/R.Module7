@@ -68,3 +68,4 @@ newIrisObject <- new("Iris",
                      
 )
 
+isS4(s4vars)
