@@ -24,4 +24,10 @@ j $class
 
 
 
+s <- list(name = "Myself", age = 29, GPA = 3.5) 
+s $name
+s $age
+
+
+
 

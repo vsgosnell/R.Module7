@@ -34,3 +34,10 @@ library(pryr)
 
 
 
+
+
+#S4 objects created using new()
+s4 <- new("student",name="Myself", age=29, GPA=3.5)
+#error
+
+
